@@ -62,7 +62,6 @@ After applying the validation rules, the valid records were stored in the clean_
 ecommerce-data-quality-pipeline/
 │
 ├── README.md
-└── notebooks/
     └── 01_Data_Quality_Pipeline.ipynb
 
 ## Key Skills Applied
