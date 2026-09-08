@@ -47,6 +47,14 @@ The pipeline found several issues in the original dataset:
 
 After applying the validation rules, the valid records were stored in the clean_orders table.
 
+### Data Quality Score
+
+![Data Quality Score](data-quality-score.jpeg)
+
+### Quality Results
+
+![Quality Results](quality-results.jpeg)
+
 ## Technologies
 
 - Databricks
