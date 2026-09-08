@@ -53,7 +53,7 @@ After applying the validation rules, the valid records were stored in the clean_
 
 ### Quality Results
 
-![Quality Results](quality-results.jpeg)
+![Quality Results](quality-result.jpeg)
 
 ## Technologies
 
